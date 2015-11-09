@@ -16,8 +16,8 @@ public class ConnectionDataBase {
 		SQLException{
 				
 			String servidor = "jdbc:mysql://localhost:3306/bc_teste";
-			String usuario = "root";
-			String senha = "jk1994adr";
+			String usuario = "";
+			String senha = "";
 			String driver = "com.mysql.jdbc.Driver";
 			
 			try {				
